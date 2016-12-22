@@ -48,7 +48,9 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
 
 
-    
+    func makeEmojiArray() -> [Emoji]{
+        
+    }
     
     
     
